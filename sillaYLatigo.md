@@ -12,13 +12,14 @@ La Consola, el experimento, el riesgo, la diversion
 
 
 ## Disertación
->!Organización y sustenteción de los hechos las opiniones, argumentación y digresion
+>Organización y sustenteción de los hechos las opiniones, argumentación y digresion
 
+El operador de sonido en vivo pasa desapercibido la mayoría de las veces. Se puede interpretar como una oportunidad para desarrollar un arte sin el peso del protagonismo en la figura del artista.
 
 ## Conclusión
-retrospectiva mejores momentos
-prospectiva futuro
-conclusión interrogante
+>retrospectiva mejores momentos
+>prospectiva futuro
+>conclusión interrogante
 
 ----------
 ## Pool
