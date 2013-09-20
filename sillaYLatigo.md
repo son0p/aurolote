@@ -1,5 +1,5 @@
-# Título
-La Consola: Experimento, riesgo y diversión
+
+# La Consola: Experimento, riesgo y diversión
 
 ## Introducción
 Este ensayo pretende analizar la relación entre _la consola_ como herramienta de sonido en vivo y sus implicaciones en la conducta del operador de sonido. Para hacer esto exploraré experiencias personales donde se toma concienca de los límites y oportunidades que presenta______________ 
@@ -12,7 +12,9 @@ La Consola, el experimento, el riesgo, la diversion
 
 
 ## Disertación
->Organización y sustenteción de los hechos las opiniones, argumentación y digresion))
+>!Organización y sustenteción de los hechos las opiniones, argumentación y digresion
+
+
 ## Conclusión
 retrospectiva mejores momentos
 prospectiva futuro
