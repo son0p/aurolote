@@ -2,19 +2,27 @@
 # La Consola: Experimento, riesgo y diversión
 
 ## Introducción
+>Importancia del tema, Propósito
 Este ensayo pretende analizar la relación entre _la consola_ como herramienta de sonido en vivo y sus implicaciones en la conducta del operador de sonido. Para hacer esto exploraré experiencias personales donde se toma concienca de los límites y oportunidades que presenta______________ 
 En función de la contemporaneidad limitará al ámbito digital 
-Importancia del tema
 
-Propósito
-
-La Consola, el experimento, el riesgo, la diversion
 
 
 ## Disertación
 >Organización y sustenteción de los hechos las opiniones, argumentación y digresion
 
 El operador de sonido en vivo pasa desapercibido la mayoría de las veces. Se puede interpretar como una oportunidad para desarrollar un arte sin el peso del protagonismo en la figura del artista.
+
+Así, es notorio: los eventos son fugaces y poco registro queda de la mayoría de ellos. La mezcla bien balanceada es testificada por pocos, no es éste el caso de un terrible sonido, que puede habitar la memoria de los asistentes durante mucho tiempo.
+
+El novato establece una relación de control con _la consola_ cada pantallazo le ofrece diferentes maneras de evitar lo indeseado, incluso en ocasiónes el oído penetrante del experto se adormece juicioso a la cómoda posición de operador que todo quiere controlar. Sin presencia de molestas realimentaciones (feedback) ni exaltos en el rango dinámico, el concierto puede pasar tranquilamente con el rótulo de "buen sonido".
+
+Pero, existe el derecho a dañar, y sustentados en esta aparente libertad, el operador inconforme toma riesgos y usa la _prueba de sonido_ como caldo de cultivo. La prudencia queda atrás y una fila generosa de extravagancias van decantandose para seleccionar acciones exquisitas que contribuyan a expandir el gesto del mundo imaginado del artista (su jefe).
+
+Cada consola 
+
+
+
 
 ## Conclusión
 >retrospectiva mejores momentos
