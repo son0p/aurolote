@@ -19,7 +19,46 @@ El novato establece una relación de control con _la consola_ cada pantallazo le
 
 Pero, existe el derecho a dañar, y sustentados en esta aparente libertad, el operador inconforme toma riesgos y usa la _prueba de sonido_ como caldo de cultivo. La prudencia queda atrás y una fila generosa de extravagancias van decantandose para seleccionar acciones exquisitas que contribuyan a expandir el gesto del mundo imaginado del artista (su jefe).
 
-Cada consola 
+Cada consola es un mundo, con sus guerras y sus paces. Así habitarlas trae consigo su drama y deleite.
+>Elementos que te ahorran tiempo, elementos que usan tu tiempo.
+
+>Comodidades, incomodidades.
+>La capacidad de preparar un canal con la mayoría de parámetros comunes y copiarlo.
+>La dificultad de marcar los canales
+>Guardar una escena, estudiar una escena, transportar una escena, guardar canales, eq, efectos.
+>Llamado parcial.
+>DCAs sn
+>cada escuela tiene sus sistema de archivos
+> calibraciön nivel en los omni outs
+> medidores, canal que muestre alertas de ruido o feedback
+> efectos 
+> Eq
+> practicar
+> Fatiga
+> Diseño para el error.
+> comodidad y ergonomia, trabajar de día, distancia y altura.
+>HPFilter en venue .. colores en yamaha, grises en den dinämicos
+> Talkback complejo
+> GRan impacto vs. poco acceso a la máquina.
+>confort (habitabilidad), eficiencia, productividad, seguridad, entendimiento, usabilidd(operabilidad),bienestar 
+> la interacción de human operators y nueva tecnología.
+>la consola digital el gran profesor, eq dinamicos.
+> casos : envio a si mismo, patch perdido, eq el que no es, 
+> wish list 
+
+>layers vs. user layers
+
+>training mode : generador de feedbacks en mezclas
+
+
+
+
+
+>Acostumbraba grabar pero la búsqueda se fue haciendo más sutíl 
+
+>
+
+
 
 
 
