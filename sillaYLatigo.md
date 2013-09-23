@@ -3,6 +3,7 @@
 
 ## Introducción
 >Importancia del tema, Propósito
+
 Este ensayo pretende analizar la relación entre _la consola_ como herramienta de sonido en vivo y sus implicaciones en la conducta del operador de sonido. Para hacer esto exploraré experiencias personales donde se toma concienca de los límites y oportunidades que presenta______________ 
 En función de la contemporaneidad limitará al ámbito digital 
 
